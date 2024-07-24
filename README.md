@@ -56,5 +56,5 @@
 
 
 ## Contact
-Created by [sabahat20] & [sroy-git]- feel free to contact us!
+Created by [sabahat20] & [Sourish Roy]- feel free to contact us!
 
